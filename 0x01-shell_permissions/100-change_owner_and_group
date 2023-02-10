@@ -1,2 +1,2 @@
 #!/bin/bash
-chown owner_vincent chgrp group_owner_staff
+chown vincent, chgrp staff
